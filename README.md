@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me:
 📧 [insaf.nacirii@gmail.com](mailto:insaf.nacirii@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nc-inf) 
+🔗 [LinkedIn](https://www.linkedin.com/in/nc-inf)
 🐙 [GitHub Projects](https://github.com/Nc-Inf)
 
 ---
